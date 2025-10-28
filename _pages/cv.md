@@ -11,54 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.S. in Computer Science**, Beihang University, July 2024 - Present
+  * GPA: 3.92/4.00, Rank: No.1
+  * Relevant Coursework: Computer Organization, Machine Learning
 
-Work experience
+* **B.S. in Aeronautic Science and Engineering**, Beihang University, September 2022 - July 2024
+  * GPA: 3.90/4.00, Rank: No.1
+  * Relevant Coursework: C Language Programming, Fundamentals of Data Structures and Algorithms
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern**, November 2024 - Present
+  * Colalab, Beijing, China
+  * Algorithm optimization works on specific purposes
+  * Working on a satellite simulation platform based on PyTorch
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Head of On-board-computer Research Team**, October 2023 - October 2024
+  * CubeSat Team of School of Astronautics, Beihang University, Beijing, China
+  * Published articles at domestic and international aerospace conferences
+  * Collaborated with doctoral students in the laboratory on various tasks
+  * Guided students of the 2021 class of the School of Astronautics to intern
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**
+  * C, C++, Python, Java
+  * Cmake, Verilog, TeX, Fortran
+* **Technologies & Frameworks**
+  * PyTorch, TensorFlow, Scikit-learn
+  * ROS2
+  * Git, Nginx
+* **Areas of Expertise**
+  * Embedded Systems Development
+  * Machine Learning
+  * Satellite Systems and Flight Software
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Projects
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.portfolio reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Awards
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.awards reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
