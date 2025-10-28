@@ -3,7 +3,7 @@ title: "Academic Excellence First-Class Scholarship"
 collection: awards
 type: "University Level Scholarship"
 permalink: /awards/2025-academic-excellence-first-class
-date: 2025-12-01
+date: 2025-03-01
 location: "Beihang University, Beijing, China"
 ---
 
