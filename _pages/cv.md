@@ -32,6 +32,30 @@ Work Experience
   * Collaborated with doctoral students in the laboratory on various tasks
   * Guided students of the 2021 class of the School of Astronautics to intern
 
+Service & Leadership
+======
+* **Teaching Assistant**, June 2025 - Present
+  * STAR Teaching Assistant Team, School of Computer Science, Beihang University
+  * Responsible for Computer Organization course
+
+* **Head of Design Department**, June 2023 - May 2024
+  * Student Publicity Media Center, Shijia College, Beihang University
+  * Led the design team for college publicity materials
+
+* **Publicity Committee Member**, 2022 - 2023
+  * Class Committee, Shijia College, Beihang University
+
+* **Student Lecturer**, 2023
+  * Student Support Department, Shijia College, Beihang University
+
+* **Volunteer Service**: 246 hours of community service
+
+Research Grants
+======
+* **Principal Investigator**, 2025
+  * Beijing Natural Science Foundation "Qi Yan" (启研) Program
+  * Project: Research on Large Language Models Based on PI-GRPO Algorithm and Its Applications
+
 Skills
 ======
 * **Programming Languages**
