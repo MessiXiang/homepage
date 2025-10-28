@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yinghao Xiang"
   pronouns         : # example: "she/her"
-  bio              : "BS Student in Computer Science at Beihang University"
+  bio              : "Undergraduate Student in Computer Science at Beihang University"
   location         : "Beijing, China"
   employer         : "Beihang University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0006-4146-986X"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -68,7 +68,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : MessiXiang
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
